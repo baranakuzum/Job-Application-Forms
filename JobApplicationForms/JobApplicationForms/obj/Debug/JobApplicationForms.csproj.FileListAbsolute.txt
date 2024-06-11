@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.Form1.resources
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.Properties.Resources.resources
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\bin\Debug\JobApplicationForms.exe.config
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\bin\Debug\JobApplicationForms.exe
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\bin\Debug\JobApplicationForms.pdb
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.exe
+C:\Users\USER\Desktop\ASP.NET\JobApplicationForms\JobApplicationForms\obj\Debug\JobApplicationForms.pdb
